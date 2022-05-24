@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning money and banking.
 - 💞️ I’m looking to collaborate on offensive security and software development.
 - 📫 Reach me out via any social media with my username, kagasirat.
+- 📰 Cyber security training publications: https://medium.com/@kagasirat
 
 (This is a new Github account of mine.)
 
