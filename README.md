@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Murat Aydin, also known as farkow and @kagasirat
 - 👀 I’m interested in Cyber Security, Software Development, and Digital Currencies.
+- 💼 I’m securing, protecting & developing CBDC (Central Bank Digital Currency) & Digital Euro.
 - 🌱 I’m currently learning money and banking.
 - 💞️ I’m looking to collaborate on offensive security and software development.
 - 📫 Reach me out via any social media with my username, kagasirat.
